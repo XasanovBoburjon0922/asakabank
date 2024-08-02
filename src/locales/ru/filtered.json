@@ -1,0 +1,18 @@
+{
+    "all": "Все",
+    "filter": "Фильтр",
+    "clearFilters": "Очистить фильтры",
+    "direction": "Направление",
+    "branch": "Филиал",
+    "jobType": "Тип работы",
+    "loading": "Загрузка...",
+    "jobTypes": {
+      "Barchasi": "Все",
+      "Toliq stavka": "Полная ставка",
+      "Yarim stavka": "Неполная ставка",
+      "Shartnoma asosida": "По контракту",
+      "Vaqtinchalik": "Временная",
+      "Stajirovka": "Стажировка"
+    }
+  }
+  
